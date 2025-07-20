@@ -4,10 +4,4 @@ services:
     runtime: node
     plan: free
     buildCommand: npm install
-    startCommand: npm start
-  - type: web
-    name: borrowers-mcp
-    runtime: node
-    plan: free
-    buildCommand: npm install
-    startCommand: npm run mcp-http 
+    startCommand: node combined-server.js 
