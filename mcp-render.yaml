@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: borrowers-mcp
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node mcp-server.js
+    envVars:
+      - key: NODE_ENV
+        value: production
