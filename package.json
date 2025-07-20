@@ -4,7 +4,8 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "node combined-server.js",
+    "old-start": "node server.js",
     "mcp": "node mcp-server.js",
     "mcp-http": "node mcp-server-http.js"
   },
