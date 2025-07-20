@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "borrowers-api": {
+      "command": "node",
+      "args": ["/Users/chetanmittal/Desktop/mcp-borrower/rag-test/mcp-server.js"],
+      "env": {}
+    }
+  }
+}
