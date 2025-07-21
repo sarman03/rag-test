@@ -10,7 +10,10 @@
       "risk_category": "Medium",
       "borrower_type": "Salaried",
       "monthly_income": "50000-100000",
-      "loan_amount": "25000-50000"
+      "loan_amount": "25000-50000",
+      "wallet_id": "WALLET001",
+      "wallet_balance": "3700",
+      "history": "Rohit Sharma has maintained a strong repayment record over the past three years, consistently making timely payments on all his loans. He has never defaulted or missed a due date, and his financial discipline is reflected in his high credit and application scores. Rohit is considered a reliable borrower by multiple lenders, and his history shows a pattern of responsible borrowing and prompt repayment, making him a low-risk candidate for future loans."
     },
     {
       "name": "Anjali Verma",
@@ -22,7 +25,10 @@
       "risk_category": "Low",
       "borrower_type": "SelfEmployed",
       "monthly_income": "100000-500000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET002",
+      "wallet_balance": "5200",
+      "history": "Anjali Verma has generally demonstrated good repayment behavior, with only one missed payment recorded last year, which was resolved within a month. She has taken several loans in the past five years, all of which have been repaid in full. Anjali is proactive in communicating with lenders and has shown improvement in her financial management, making her a trustworthy borrower with a positive outlook for future credit."
     },
     {
       "name": "Nikhil Joshi",
@@ -34,7 +40,10 @@
       "risk_category": "High",
       "borrower_type": "Salaried",
       "monthly_income": "Upto 25000",
-      "loan_amount": "Upto 25000"
+      "loan_amount": "Upto 25000",
+      "wallet_id": "WALLET003",
+      "wallet_balance": "1800",
+      "history": "Nikhil Joshi has a history of delayed repayments and has defaulted on at least one previous loan, failing to return the borrowed amount on time. His financial records indicate frequent cash flow issues and a tendency to overextend credit. While he has made efforts to clear outstanding dues, his repayment pattern remains inconsistent, and lenders have flagged him as a high-risk borrower requiring close monitoring."
     },
     {
       "name": "Pooja Mehta",
@@ -46,7 +55,10 @@
       "risk_category": "Medium",
       "borrower_type": "SelfEmployed",
       "monthly_income": "25000-50000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET004",
+      "wallet_balance": "4100",
+      "history": "Pooja Mehta is known for her punctuality in loan repayments, with only a single delayed payment two years ago due to a temporary financial setback. She quickly resolved the issue and has since maintained a clean record. Pooja’s borrowing history reflects a responsible approach, and she is regarded as a dependable client by her lenders, with a steady income supporting her repayment capacity."
     },
     {
       "name": "Arjun Kapoor",
@@ -58,7 +70,10 @@
       "risk_category": "Low",
       "borrower_type": "Salaried",
       "monthly_income": "100000-500000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET005",
+      "wallet_balance": "6700",
+      "history": "Arjun Kapoor has an exemplary repayment history, having never missed or delayed a payment on any of his loans. Over the past five years, he has managed multiple credit lines with ease, always settling dues ahead of schedule. His financial discipline and strong income profile make him one of the most reliable borrowers in the applicant pool, with lenders eager to extend further credit."
     },
     {
       "name": "Divya Nair",
@@ -70,7 +85,10 @@
       "risk_category": "High",
       "borrower_type": "SelfEmployed",
       "monthly_income": "25000-50000",
-      "loan_amount": "25000-50000"
+      "loan_amount": "25000-50000",
+      "wallet_id": "WALLET006",
+      "wallet_balance": "2300",
+      "history": "Divya Nair has struggled with timely repayments, missing several payments over the last two years. Her financial situation has been unstable, leading to a higher risk of default. Despite reminders and restructuring options, Divya’s repayment consistency remains a concern for lenders, and she is currently under a watchlist for high-risk borrowers."
     },
     {
       "name": "Rahul Bhatia",
@@ -82,7 +100,10 @@
       "risk_category": "Low",
       "borrower_type": "Salaried",
       "monthly_income": "50000-100000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET007",
+      "wallet_balance": "4400",
+      "history": "Rahul Bhatia has a solid track record of making all loan payments on time, with no defaults or late payments recorded. He manages his finances well and maintains open communication with lenders. Rahul’s history of responsible borrowing and prompt repayment has earned him a favorable reputation among financial institutions."
     },
     {
       "name": "Sneha Reddy",
@@ -94,7 +115,10 @@
       "risk_category": "Medium",
       "borrower_type": "SelfEmployed",
       "monthly_income": "Upto 25000",
-      "loan_amount": "Upto 25000"
+      "loan_amount": "Upto 25000",
+      "wallet_id": "WALLET008",
+      "wallet_balance": "1200",
+      "history": "Sneha Reddy occasionally submits payments a few days past the due date but has never defaulted on a loan. Her financial management has improved over time, and she is making efforts to build a stronger credit profile. Lenders view her as a moderate-risk borrower with potential for improvement."
     },
     {
       "name": "Karan Singh",
@@ -106,7 +130,10 @@
       "risk_category": "Low",
       "borrower_type": "Salaried",
       "monthly_income": "100000-500000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET009",
+      "wallet_balance": "5900",
+      "history": "Karan Singh is an excellent borrower who consistently pays off his loans before the due date. He has a long-standing relationship with several lenders and is often offered preferential rates due to his impeccable repayment history. Karan’s financial stability and reliability make him a model client in the lending community."
     },
     {
       "name": "Meena Das",
@@ -118,7 +145,10 @@
       "risk_category": "High",
       "borrower_type": "SelfEmployed",
       "monthly_income": "25000-50000",
-      "loan_amount": "25000-50000"
+      "loan_amount": "25000-50000",
+      "wallet_id": "WALLET010",
+      "wallet_balance": "2100",
+      "history": "Meena Das defaulted on a loan two years ago due to unforeseen medical expenses but has since become regular with her payments. She worked with lenders to restructure her debt and has not missed a payment since. Meena’s recent repayment behavior indicates a positive trend, though lenders remain cautious."
     },
     {
       "name": "Tarun Chauhan",
@@ -130,7 +160,10 @@
       "risk_category": "Medium",
       "borrower_type": "Salaried",
       "monthly_income": "50000-100000",
-      "loan_amount": "25000-50000"
+      "loan_amount": "25000-50000",
+      "wallet_id": "WALLET011",
+      "wallet_balance": "3300",
+      "history": "Tarun Chauhan has always paid his dues on time, with no history of default or late payments. He is diligent in managing his finances and is considered a low-risk borrower by all his lenders. Tarun’s consistent repayment record makes him a preferred client for future loans."
     },
     {
       "name": "Isha Kaur",
@@ -142,7 +175,10 @@
       "risk_category": "Low",
       "borrower_type": "SelfEmployed",
       "monthly_income": "50000-100000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET012",
+      "wallet_balance": "4800",
+      "history": "Isha Kaur missed a payment last year due to a temporary job loss but promptly cleared all dues within the grace period. She has since stabilized her income and continues to maintain a good repayment record. Lenders appreciate her transparency and willingness to resolve issues quickly."
     },
     {
       "name": "Vikram Desai",
@@ -154,7 +190,10 @@
       "risk_category": "High",
       "borrower_type": "Salaried",
       "monthly_income": "Upto 25000",
-      "loan_amount": "Upto 25000"
+      "loan_amount": "Upto 25000",
+      "wallet_id": "WALLET013",
+      "wallet_balance": "1600",
+      "history": "Vikram Desai is considered high risk due to multiple late payments and one default in the past three years. His financial situation has been volatile, and he often struggles to meet repayment deadlines. Lenders have advised stricter terms for any future credit extended to him."
     },
     {
       "name": "Ritika Sinha",
@@ -166,7 +205,10 @@
       "risk_category": "Medium",
       "borrower_type": "SelfEmployed",
       "monthly_income": "50000-100000",
-      "loan_amount": "25000-50000"
+      "loan_amount": "25000-50000",
+      "wallet_id": "WALLET014",
+      "wallet_balance": "3900",
+      "history": "Ritika Sinha generally pays on time, with only one late payment recorded last year. She is proactive in communicating with lenders and has shown steady improvement in her financial management. Ritika is viewed as a responsible borrower with a positive outlook."
     },
     {
       "name": "Ajay Malhotra",
@@ -178,7 +220,10 @@
       "risk_category": "Low",
       "borrower_type": "Salaried",
       "monthly_income": "100000-500000",
-      "loan_amount": "50000-100000"
+      "loan_amount": "50000-100000",
+      "wallet_id": "WALLET015",
+      "wallet_balance": "6100",
+      "history": "Ajay Malhotra has a perfect repayment record, never having missed or delayed a payment. He is highly regarded by lenders for his financial discipline and reliability. Ajay’s strong credit profile and consistent repayment behavior make him an ideal candidate for future loans."
     }
   ]
 }
