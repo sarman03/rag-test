@@ -4,4 +4,4 @@ services:
     runtime: node
     plan: free
     buildCommand: npm install
-    startCommand: node combined-server.js 
+    startCommand: node server.js 
